@@ -4,10 +4,10 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
+.ipynb_checkpoints/
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
-
+.idea/
 # Windows Installer files
 *.cab
 *.msi
